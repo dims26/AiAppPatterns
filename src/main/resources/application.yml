@@ -1,0 +1,21 @@
+spring:
+  application:
+    name: AiAppPatterns
+
+langchain4j:
+  open-ai:
+    chat-model:
+      api-key: ${OPENAI_API_KEY}
+      model-name: gpt-5.4
+      log-requests: true
+      log-responses: true
+    embedding-model:
+      api-key: ${OPENAI_API_KEY}
+      model-name: text-embedding-3-small
+#      log-requests: true
+#      log-responses: true
+
+app:
+  paths:
+    tech-docs-topics: datasets/technical-documents/topics
+    topic-embeddings-store: datasets/saved-embedding-store/

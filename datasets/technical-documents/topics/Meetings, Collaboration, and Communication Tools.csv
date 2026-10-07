@@ -1,0 +1,278 @@
+"ki_topic","ki_text"
+"Setting Up a Conference Call on Cisco Webex","To set up a conference call on Cisco Webex, follow these steps:
+
+**Step 1: Log in to Cisco Webex**
+
+Open a web browser and navigate to [company Webex URL]. Enter your company login credentials to access the Webex portal.
+
+**Step 2: Schedule a Meeting**
+
+Click on the ""Meetings"" tab and select ""Schedule a Meeting"" from the drop-down menu. Fill in the required information, including:
+
+* Meeting topic
+* Start and end time
+* Duration
+* Invitees (add email addresses or names from the company directory)
+
+**Step 3: Configure Audio Settings**
+
+In the ""Audio"" section, select ""Cisco Webex Audio"" as the default audio type. You can also choose to allow participants to join via phone or VoIP.
+
+**Step 4: Set Up Video Settings (Optional)**
+
+If you want to enable video conferencing, click on the ""Video"" tab and select ""Cisco Webex Video"" as the default video type. You can also choose to allow participants to join via video.
+
+**Step 5: Add Agenda and Notes (Optional)**
+
+You can add an agenda and notes to the meeting invitation by clicking on the ""Agenda"" tab. This information will be visible to all invitees.
+
+**Step 6: Send Invitations**
+
+Click ""Schedule"" to send the meeting invitation to all invitees. The invitation will include a link to join the meeting, as well as dial-in information for audio-only participants.
+
+**Step 7: Start the Meeting**
+
+At the scheduled start time, click on the ""Start"" button to begin the conference call. As the host, you will be prompted to enter your audio and video settings before joining the meeting.
+
+**Tips and Best Practices**
+
+* Make sure to test your audio and video settings before the meeting to ensure a smooth experience.
+* Encourage invitees to join the meeting 5-10 minutes early to troubleshoot any technical issues.
+* Use the ""Mute"" feature to minimize background noise and ensure clear audio.
+* Use the ""Share"" feature to share your screen or presentations with participants.
+
+**Troubleshooting**
+
+* If you encounter issues joining the meeting, try restarting your browser or checking your internet connection.
+* If you experience audio or video issues during the meeting, try restarting your audio or video settings or contacting the IT helpdesk for assistance.
+
+By following these steps, you can successfully set up and host a conference call on Cisco Webex. If you have any further questions or issues, please contact the IT helpdesk for assistance."
+"Creating a New Distribution List in Exchange","**Creating a New Distribution List in Exchange**
+
+**Overview:**
+This article provides step-by-step instructions for creating a new distribution list in Microsoft Exchange.
+
+**Prerequisites:**
+
+* You must have an active Exchange account with sufficient permissions to create distribution lists.
+* You must have access to the Exchange Control Panel (ECP) or the Exchange Admin Center (EAC).
+
+**Step 1: Access the Exchange Control Panel (ECP) or Exchange Admin Center (EAC)**
+
+* Open a web browser and navigate to [https://exchange.yourcompany.com/ecp](https://exchange.yourcompany.com/ecp) (replace ""yourcompany"" with your company's domain).
+* Log in with your credentials.
+
+**Step 2: Create a New Distribution List**
+
+* In the ECP or EAC, click on **recipients** in the navigation menu.
+* Click on **distribution groups**.
+* Click on the **New** button.
+* Select **Distribution group** from the dropdown menu.
+* Click **Next**.
+
+**Step 3: Configure Distribution List Settings**
+
+* Enter a **Display name** for the distribution list (e.g., ""Marketing Team"").
+* Enter an **Alias** for the distribution list (e.g., ""marketingteam"").
+* Enter an **Email address** for the distribution list (e.g., ""marketingteam@yourcompany.com"").
+* Click **Add** to add members to the distribution list. You can add users, groups, or contacts.
+* Click **OK** to save the changes.
+
+**Step 4: Set Permissions and Options (Optional)**
+
+* Click on the **Membership** tab to set permissions for the distribution list.
+* Choose the **Owner** and **Members** for the distribution list.
+* Click on the **Delivery management** tab to set delivery options for the distribution list.
+* Choose the **Senders** and **Recipient limits** for the distribution list.
+* Click **Save** to save the changes.
+
+**Step 5: Verify the Distribution List**
+
+* Click on the **recipients** tab in the ECP or EAC.
+* Verify that the new distribution list appears in the list of distribution groups.
+* Test the distribution list by sending an email to the new distribution list email address.
+
+**Troubleshooting Tips:**
+
+* If you encounter issues creating the distribution list, ensure you have sufficient permissions and verify that the email address is not already in use.
+* If you need to modify the distribution list settings, navigate to the **recipients** tab, find the distribution list, and click on the **Edit** button.
+
+By following these steps, you should be able to create a new distribution list in Microsoft Exchange. If you encounter any issues or have further questions, please contact the IT Helpdesk for assistance."
+"Setting Up a Meeting on Microsoft Teams","**Step 1: Ensure You Have the Necessary Permissions**
+
+Before setting up a meeting on Microsoft Teams, ensure you have the necessary permissions to create meetings. You should be a member of the organization and have the Teams app installed on your device.
+
+**Step 2: Launch Microsoft Teams**
+
+Open Microsoft Teams on your device, either by launching the desktop application or accessing it through the web portal.
+
+**Step 3: Navigate to the Calendar Tab**
+
+Click on the ""Calendar"" tab on the left-hand side of the Teams window. This will take you to your calendar view, where you can schedule new meetings.
+
+**Step 4: Click on ""New Meeting""**
+
+Click on the ""New Meeting"" button in the top right corner of the calendar view.
+
+**Step 5: Enter Meeting Details**
+
+In the ""New Meeting"" window, enter the following details:
+
+* **Title**: Enter a descriptive title for your meeting.
+* **Required Attendees**: Enter the email addresses or names of the required attendees.
+* **Optional Attendees**: Enter the email addresses or names of the optional attendees.
+* **Start Time** and **End Time**: Select the start and end times for your meeting.
+* **Location**: Enter the location of the meeting, if applicable.
+
+**Step 6: Add Meeting Description and Attachments (Optional)**
+
+You can add a meeting description to provide more context to the attendees. You can also attach files or documents relevant to the meeting.
+
+**Step 7: Choose Audio and Video Options**
+
+Select your audio and video options for the meeting. You can choose to use Microsoft Teams audio and video, or use an external audio conference provider.
+
+**Step 8: Set Meeting Options**
+
+You can set additional meeting options, such as:
+
+* **Allow anonymous join**: Allow people outside your organization to join the meeting anonymously.
+* **Record meeting**: Record the meeting for later reference.
+
+**Step 9: Send Meeting Invitations**
+
+Click on the ""Send"" button to send meeting invitations to the attendees. The meeting will be added to their calendars, and they will receive an email notification with the meeting details.
+
+**Step 10: Verify Meeting Setup**
+
+Verify that the meeting has been set up correctly by checking your calendar and the meeting invitations sent to the attendees.
+
+By following these steps, you should be able to successfully set up a meeting on Microsoft Teams. If you encounter any issues, please contact your IT support team for assistance."
+"Troubleshooting Issues with Skype for Business","**Troubleshooting Issues with Skype for Business**
+
+Skype for Business is a crucial communication tool used by our organization, and occasional issues can hinder productivity. This article provides step-by-step troubleshooting guides to help you resolve common issues with Skype for Business.
+
+**Issue 1: Unable to Sign In**
+
+1. **Check Credentials**: Verify your username and password are correct. Ensure you are using the correct domain and password.
+2. **Restart Skype for Business**: Close and restart Skype for Business to refresh the connection.
+3. **Check Network Connection**: Ensure your network connection is stable and working. Try restarting your router or modem if necessary.
+4. **Clear Sign-in Information**: Go to **File** > **Sign-out**, then restart Skype for Business and sign in again.
+
+**Issue 2: Audio or Video Issues**
+
+1. **Check Audio/Video Settings**: Go to **Tools** > **Audio Device Settings** and ensure the correct audio device is selected.
+2. **Restart Audio/Video Devices**: Restart your audio or video devices, such as headsets or webcams.
+3. **Check Skype for Business Settings**: Ensure **Audio** and **Video** are enabled in **Tools** > **Options** > **Audio & Video**.
+4. **Update Audio/Video Drivers**: Check for updates to your audio or video drivers and install the latest version.
+
+**Issue 3: Calls Not Connecting**
+
+1. **Check Network Connection**: Ensure your network connection is stable and working.
+2. **Check Skype for Business Server Status**: Visit our company's IT status page to check if there are any known issues with the Skype for Business server.
+3. **Restart Skype for Business**: Close and restart Skype for Business to refresh the connection.
+4. **Check Call Settings**: Ensure **Calls** are enabled in **Tools** > **Options** > **Calls**.
+
+**Issue 4: Chat or Presence Issues**
+
+1. **Check Network Connection**: Ensure your network connection is stable and working.
+2. **Restart Skype for Business**: Close and restart Skype for Business to refresh the connection.
+3. **Check Presence Settings**: Ensure **Presence** is enabled in **Tools** > **Options** > **Presence**.
+4. **Check Chat Settings**: Ensure **Chat** is enabled in **Tools** > **Options** > **Chat**.
+
+**Issue 5: Crashes or Freezes**
+
+1. **Restart Skype for Business**: Close and restart Skype for Business to refresh the connection.
+2. **Check for Updates**: Ensure you are running the latest version of Skype for Business.
+3. **Disable Add-ins**: Go to **Tools** > **Options** > **Add-ins** and disable any recently installed add-ins.
+4. **Reinstall Skype for Business**: If the issue persists, try reinstalling Skype for Business.
+
+If none of these troubleshooting steps resolve your issue, please contact the IT helpdesk for further assistance."
+"Setting Up a New User's Voicemail","To set up a new user's voicemail, follow these steps:
+
+**Step 1: Create a New Voicemail Account**
+
+* Log in to the Voicemail Administration Portal using your administrator credentials.
+* Click on ""Create New Account"" and enter the new user's name, email address, and extension number.
+* Choose the appropriate voicemail plan and features for the new user.
+* Click ""Save"" to create the new account.
+
+**Step 2: Assign a Voicemail PIN**
+
+* In the Voicemail Administration Portal, navigate to the ""Users"" tab and find the new user's account.
+* Click on the ""Edit"" button next to the user's name and scroll down to the ""Voicemail PIN"" section.
+* Enter a temporary PIN for the new user and click ""Save"".
+* Inform the new user of their temporary PIN and instruct them to change it to a secure PIN upon first login.
+
+**Step 3: Configure Voicemail Settings**
+
+* Log in to the Voicemail System using the new user's credentials and temporary PIN.
+* Follow the voice prompts to change the temporary PIN to a secure PIN.
+* Set up the new user's voicemail greeting by recording a personalized message or using the default greeting.
+* Configure any additional voicemail settings as desired, such as call forwarding or notification preferences.
+
+**Step 4: Test Voicemail**
+
+* Call the new user's extension from another phone to test their voicemail setup.
+* Leave a test voicemail message and verify that it is delivered to the new user's mailbox.
+* Verify that the new user can access their voicemail and retrieve messages successfully.
+
+**Additional Tips and Considerations**
+
+* Ensure that the new user has completed any necessary voicemail training or orientation.
+* Inform the new user of the company's voicemail policies and procedures.
+* Consider setting up voicemail notifications or transcriptions for the new user, depending on their role and requirements.
+* Update any relevant documentation or records to reflect the new user's voicemail setup.
+
+By following these steps, you can successfully set up a new user's voicemail and ensure they have a seamless onboarding experience."
+"Setting Up a Meeting on Zoom","**Setting Up a Meeting on Zoom**
+
+**Overview**
+
+This article provides step-by-step instructions on how to set up a meeting on Zoom, a video conferencing platform used by our company for remote meetings and collaborations.
+
+**Prerequisites**
+
+* You have a Zoom account and are logged in to the Zoom client or web portal.
+* You have the necessary permissions to schedule meetings on Zoom.
+
+**Step 1: Log in to Zoom**
+
+* Open the Zoom client or access the Zoom web portal through a web browser.
+* Enter your company credentials to log in to your Zoom account.
+
+**Step 2: Click on ""New Meeting""**
+
+* In the Zoom client, click on the ""New Meeting"" button located at the top right corner of the screen.
+* In the Zoom web portal, click on the ""New Meeting"" button located on the top navigation bar.
+
+**Step 3: Enter Meeting Details**
+
+* Enter a topic for your meeting in the ""Topic"" field.
+* Enter the start and end dates and times for your meeting in the ""Start"" and ""End"" fields, respectively.
+* Select the time zone for your meeting from the ""Time Zone"" dropdown menu.
+
+**Step 4: Add Meeting Participants**
+
+* Enter the email addresses of the participants you want to invite to your meeting in the ""Invitees"" field. You can add multiple email addresses separated by commas.
+* Alternatively, you can also add participants from your company's directory by clicking on the ""Directory"" tab and searching for their names.
+
+**Step 5: Configure Meeting Settings**
+
+* Choose the audio and video settings for your meeting. You can select from options such as ""Video On"", ""Video Off"", ""Audio Only"", or ""Both"".
+* Select the meeting duration from the ""Duration"" dropdown menu.
+* Choose whether to enable or disable features such as screen sharing, chat, and recording.
+
+**Step 6: Save and Send Invitations**
+
+* Click on the ""Save"" button to save your meeting settings.
+* Click on the ""Send Invitation"" button to send meeting invitations to the participants you added in Step 4.
+* The meeting invitation will be sent to the participants' email addresses with a link to join the meeting.
+
+**Troubleshooting Tips**
+
+* If you encounter any issues while setting up your meeting, check the Zoom status page to ensure that there are no outages or maintenance scheduled.
+* If you are unable to add participants, ensure that their email addresses are correct and that they have a Zoom account.
+* If you are experiencing audio or video issues during the meeting, try restarting the Zoom client or checking your internet connection.
+
+By following these steps, you should be able to successfully set up a meeting on Zoom. If you require further assistance, please contact the IT helpdesk."

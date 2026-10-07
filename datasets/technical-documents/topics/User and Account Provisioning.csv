@@ -1,0 +1,434 @@
+"ki_topic","ki_text"
+"Setting Up a New User's Computer","**Step 1: Prepare the New User's Account**
+
+Before setting up a new user's computer, ensure the user's account is created and active in the company's directory. Verify the user's login credentials, email address, and phone number are correct. If the account is not already created, follow the process outlined in ""Creating a New User Account"" (KB001234) to create the account.
+
+**Step 2: Prepare the Computer**
+
+Obtain the new user's computer and ensure it is fully powered down. Verify the computer's serial number and asset tag match the information in the company's asset management system.
+
+**Step 3: Install the Company Image**
+
+Insert the company-approved installation media into the computer and power it on. Follow the prompts to install the company image, which includes the operating system, core applications, and security software. Ensure the installation is completed successfully and the computer restarts automatically.
+
+**Step 4: Configure Network Settings**
+
+Connect the computer to the company network using a wired Ethernet connection. Open the network settings and configure the IP address, subnet mask, default gateway, and DNS settings according to the company's network configuration guidelines.
+
+**Step 5: Join the Computer to the Domain**
+
+Join the computer to the company domain by following these steps:
+
+* Open the System Properties window and click on the ""Computer Name"" tab.
+* Click on the ""Change"" button and select ""Domain"".
+* Enter the company domain name and click ""OK"".
+* Authenticate with a domain admin account to complete the join process.
+
+**Step 6: Install Additional Software**
+
+Install any additional software required by the user's role, such as Microsoft Office or specialized applications. Use the company's software distribution tool to deploy the software.
+
+**Step 7: Configure Email and Phone Settings**
+
+Configure the user's email client and phone settings:
+
+* Open the email client and configure the user's email account, including the email address, password, and server settings.
+* Configure the user's phone settings, including the phone number and voicemail password.
+
+**Step 8: Set Up Security Software**
+
+Install and configure the company-approved security software, including antivirus and malware protection.
+
+**Step 9: Finalize the Setup**
+
+Perform a final check to ensure all software and settings are installed and configured correctly. Verify the user can log in successfully and access company resources.
+
+**Step 10: Deliver the Computer to the User**
+
+Deliver the computer to the new user and provide a brief overview of the computer's settings and features. Ensure the user is aware of the company's IT policies and procedures."
+"Setting Up a New User's Account in Salesforce","**Step 1: Verify User Information**
+
+Before setting up a new user's account in Salesforce, ensure you have the following information:
+
+* First and last name
+* Email address
+* Job title
+* Department
+* Manager's name (if applicable)
+* User role (e.g., Sales, Marketing, Customer Support)
+
+**Step 2: Create a New User Profile**
+
+Login to Salesforce as an administrator and navigate to **Setup** > **Manage Users** > **Users**. Click **New User**.
+
+Enter the user's first and last name, email address, and password. Make sure to select the correct **User License** and **Profile**. The profile determines the user's level of access and permissions within Salesforce.
+
+**Step 3: Assign User Role**
+
+Assign the user to the appropriate role based on their job function. Roles determine the user's access to specific features and functionality within Salesforce. To assign a role, click **Roles** and select the relevant role from the list.
+
+**Step 4: Set Up User Permissions**
+
+Set up the user's permissions by clicking **Permissions**. Grant the necessary permissions based on the user's role and job function. Ensure the user has the necessary permissions to perform their tasks effectively.
+
+**Step 5: Configure User Settings**
+
+Configure the user's settings by clicking **Settings**. Set the user's time zone, language, and currency. You can also set up the user's email settings, such as their email signature and notification preferences.
+
+**Step 6: Add User to Groups and Teams**
+
+Add the user to the relevant groups and teams to ensure they receive necessary notifications and have access to shared resources. To add a user to a group or team, click **Groups** or **Teams** and select the relevant group or team.
+
+**Step 7: Send Welcome Email**
+
+Send a welcome email to the new user with their login credentials and any necessary instructions or resources. You can customize the welcome email template in Salesforce to include relevant information and links.
+
+**Step 8: Verify User Account**
+
+Verify the user's account by logging in as the new user to ensure everything is set up correctly. Test their permissions, access, and settings to ensure they can perform their tasks effectively.
+
+**Additional Tips**
+
+* Ensure the user's password meets the company's password policy requirements.
+* Provide the user with necessary training and resources to get started with Salesforce.
+* Set up a meeting with the user to answer any questions they may have and provide additional support.
+
+By following these steps, you can ensure a new user's account is set up correctly in Salesforce, providing them with the necessary access and permissions to perform their job effectively."
+"Setting Up a New User's Account in JIRA","To set up a new user's account in JIRA, follow these steps:
+
+**Step 1: Verify the User's Information**
+
+Before creating a new user account in JIRA, ensure you have the following information:
+
+* The user's full name
+* Their email address
+* Their job title and department
+* Any necessary permissions or access levels
+
+**Step 2: Log in to JIRA**
+
+Log in to JIRA with your administrator credentials.
+
+**Step 3: Access the User Management Page**
+
+Click on the gear icon in the top right corner of the JIRA dashboard and select ""Issues and Projects"" > ""User Management"".
+
+**Step 4: Create a New User**
+
+Click the ""Create User"" button at the top right corner of the User Management page.
+
+**Step 5: Enter User Information**
+
+Fill in the required information for the new user, including:
+
+* Username (typically the user's email address or a unique identifier)
+* Full name
+* Email address
+* Password (temporary password that the user will be prompted to change on their first login)
+* Job title and department (optional)
+
+**Step 6: Assign Permissions**
+
+Assign the necessary permissions to the new user based on their job role and department. You can choose from the following options:
+
+* Administrator: Grants full access to JIRA, including the ability to manage users, projects, and workflows.
+* Project Administrator: Grants access to manage projects, including creating and editing issues, workflows, and boards.
+* User: Grants basic access to JIRA, including the ability to view and edit issues.
+
+**Step 7: Add to Groups (Optional)**
+
+If the new user needs to be part of a specific group (e.g., a project team or department), add them to the relevant group.
+
+**Step 8: Save the User**
+
+Click the ""Create User"" button to save the new user account.
+
+**Step 9: Notify the User**
+
+Notify the new user of their account creation and provide them with their temporary password. Inform them that they will be prompted to change their password on their first login.
+
+**Step 10: Verify the User's Account**
+
+Verify that the new user can log in to JIRA successfully and has the correct permissions and access levels.
+
+By following these steps, you can ensure a smooth and secure setup process for new users in JIRA."
+"Setting Up a New User's Account in Oracle","**Step 1: Gather Required Information**
+
+Before setting up a new user's account in Oracle, gather the following information:
+
+* The user's full name
+* Their job title and department
+* Their manager's name and email address
+* The user's role in the company (e.g. employee, contractor, vendor)
+* The user's start date and expected duration of access (if applicable)
+
+**Step 2: Create the User Account**
+
+1. Log in to the Oracle administration console using your credentials.
+2. Navigate to the ""Users"" module and click on ""Create User"".
+3. Enter the user's full name, job title, and department in the respective fields.
+4. Select the appropriate role for the user from the drop-down list.
+5. Enter the user's manager's name and email address.
+6. Set the user's start date and expected duration of access (if applicable).
+7. Click ""Save"" to create the user account.
+
+**Step 3: Assign Security Roles**
+
+1. Navigate to the ""Roles"" module and search for the security role that corresponds to the user's job title and department.
+2. Click on the role to open its details page.
+3. Click the ""Assign Role"" button and select the user from the list of available users.
+4. Click ""Save"" to assign the security role to the user.
+
+**Step 4: Set Up Password and Authentication**
+
+1. Navigate to the ""Users"" module and search for the user's account.
+2. Click on the user's account to open its details page.
+3. Click on the ""Password"" tab and select ""Set Password"".
+4. Enter a temporary password for the user and confirm it.
+5. Select the authentication method (e.g. username/password, SSO, etc.).
+6. Click ""Save"" to set up the password and authentication.
+
+**Step 5: Notify the User**
+
+1. Send an email to the user with their login credentials and a welcome message.
+2. Include instructions on how to change their password and set up their account.
+3. Provide contact information for the IT helpdesk in case the user encounters any issues.
+
+**Step 6: Verify Account Setup**
+
+1. Log in to Oracle using the user's credentials to verify that the account is set up correctly.
+2. Test the user's access to the assigned security role and ensure they can perform the necessary tasks.
+3. Make any necessary adjustments to the user's account or security role.
+
+By following these steps, you should be able to successfully set up a new user's account in Oracle. If you encounter any issues or have questions, please contact the IT helpdesk for assistance."
+"Setting Up a New User's Account in SAP","**Setting Up a New User's Account in SAP**
+
+To set up a new user's account in SAP, follow the steps outlined below. This process requires authorization and access to the SAP system as an administrator.
+
+**Step 1: Create a New User**
+
+1. Log in to the SAP system using your administrator credentials.
+2. Navigate to the **User Management** module by clicking on the **User** tab in the top navigation bar.
+3. Click on the **Create** button to initiate the user creation process.
+4. Enter the new user's **Username**, **First Name**, **Last Name**, and **Email Address** in the required fields.
+5. Choose a suitable **User Group** from the dropdown list, depending on the user's role and responsibilities.
+
+**Step 2: Assign Roles and Authorizations**
+
+1. Click on the **Roles** tab and assign the relevant roles to the new user. These roles determine the user's access levels and permissions within the SAP system.
+2. Select the required roles from the list of available options, and click **Add** to assign them to the user.
+3. Review the assigned roles to ensure they align with the user's job requirements and responsibilities.
+
+**Step 3: Set Up User Defaults**
+
+1. Click on the **Defaults** tab to set up the user's default settings.
+2. Enter the user's **Language** and **Date Format** preferences.
+3. Choose the **Time Zone** and **Currency** settings, if applicable.
+4. Click **Save** to apply the changes.
+
+**Step 4: Set Up Password and Security**
+
+1. Click on the **Password** tab to set up the user's password.
+2. Enter a strong and unique **Password** for the user, and confirm it in the **Repeat Password** field.
+3. Set the **Password Expiration** period, if required.
+4. Choose the **Challenge Questions** and provide answers for password reset purposes.
+5. Click **Save** to apply the changes.
+
+**Step 5: Activate the User Account**
+
+1. Click on the **Activate** button to enable the user account.
+2. Review the user's details and settings to ensure everything is correct.
+3. Click **Save** to complete the user setup process.
+
+**Post-Setup Tasks**
+
+1. Inform the new user of their SAP account credentials and provide any necessary training or guidance.
+2. Monitor the user's activity and adjust their roles or authorizations as needed.
+3. Regularly review and update user accounts to ensure security and compliance with company policies.
+
+By following these steps, you can successfully set up a new user's account in SAP, ensuring they have the necessary access and permissions to perform their job functions effectively."
+"Setting Up a New User's Account in Workday","**Step 1: Gather Required Information**
+
+Before setting up a new user's account in Workday, ensure you have the following information:
+
+* Employee ID (assigned by HR)
+* First and last name
+* Job title and department
+* Manager's name and employee ID
+* Work location
+* Email address (if different from the company's standard email format)
+
+**Step 2: Log in to Workday**
+
+Access Workday using your credentials and navigate to the ""Workers"" section.
+
+**Step 3: Create a New Worker Profile**
+
+Click on ""Create Worker"" and select ""Employee"" as the worker type. Enter the required information gathered in Step 1. Make sure to select the correct job title, department, and manager from the dropdown menus.
+
+**Step 4: Set Up User Account**
+
+Click on the ""User Account"" tab and enter the user's email address. Set the ""Account Status"" to ""Active"" and select the appropriate ""Role"" from the dropdown menu (e.g., ""Employee"" or ""Contractor"").
+
+**Step 5: Assign Security Groups**
+
+Assign the necessary security groups to the user based on their job role and department. This will determine the user's access levels and permissions within Workday. Refer to the company's security group policy for guidance.
+
+**Step 6: Set Up Password and Authentication**
+
+Set the user's password and configure authentication settings according to the company's password policy. Ensure the user is set up for multi-factor authentication (MFA) if required.
+
+**Step 7: Review and Save**
+
+Review the user's profile and account settings to ensure accuracy. Save the changes to complete the setup process.
+
+**Step 8: Notify the User**
+
+Send a welcome email to the new user with their login credentials, password reset instructions, and any other relevant information. This email should include resources for getting started with Workday, such as training materials and support contacts.
+
+**Step 9: Verify Account Setup**
+
+Log in to Workday as the new user to verify that their account is set up correctly. Ensure they can access the necessary features and functions based on their role and security groups.
+
+By following these steps, you can successfully set up a new user's account in Workday and provide them with the necessary access and resources to perform their job duties. If you encounter any issues or have questions, contact the IT helpdesk for assistance."
+"Setting Up a New User's Account in Concur","**Step 1: Create a New User Profile**
+
+To set up a new user's account in Concur, navigate to the Concur portal and log in with your administrative credentials. Click on the ""Administration"" tab and select ""User Management"" from the dropdown menu.
+
+**Step 2: Click on ""Add User""**
+
+In the User Management page, click on the ""Add User"" button. This will open a new window where you can enter the new user's information.
+
+**Step 3: Enter User Information**
+
+Fill in the required fields with the new user's information, including:
+
+* First Name
+* Last Name
+* Email Address
+* Username (this will be the user's login credentials)
+* Password (temporary password that the user will be prompted to change on their first login)
+* Role (select the appropriate role for the new user, such as ""Employee"" or ""Manager"")
+* Department (select the department the new user belongs to)
+
+**Step 4: Assign Permissions**
+
+Assign the necessary permissions to the new user based on their role and department. This may include permissions to create and submit expense reports, approve reports, or access specific company credit cards.
+
+**Step 5: Set Up Expense Policy**
+
+Assign the new user to the appropriate expense policy. This will determine the types of expenses the user is allowed to submit and the approval workflow for their reports.
+
+**Step 6: Add User to Groups (Optional)**
+
+If the new user needs to be part of a specific group or team, add them to the relevant group. This will allow them to access shared reports and collaborate with other team members.
+
+**Step 7: Save and Send Welcome Email**
+
+Click ""Save"" to create the new user profile. Concur will automatically send a welcome email to the new user with instructions on how to log in and change their temporary password.
+
+**Step 8: Verify User Setup**
+
+Verify that the new user's account has been set up correctly by logging in to Concur as the new user and ensuring they can access the necessary features and functions.
+
+**Additional Tips:**
+
+* Make sure to communicate with the new user and provide them with any necessary training or resources to get started with Concur.
+* Regularly review and update user permissions and roles to ensure they are aligned with company policies and procedures.
+* Consider setting up a Concur administrator to manage user accounts and permissions on an ongoing basis."
+"Setting Up a New User's Account in Box","**Setting Up a New User's Account in Box**
+
+**Overview**
+
+This article provides step-by-step instructions for setting up a new user's account in Box, our company's cloud-based file sharing and collaboration platform.
+
+**Prerequisites**
+
+* The new user must have a valid company email address.
+* You must have administrative access to the Box platform.
+
+**Step 1: Create a New User Account**
+
+1. Log in to the Box admin console using your administrator credentials.
+2. Click on the ""Users"" tab and then click on ""Add New User"".
+3. Enter the new user's first name, last name, and company email address.
+4. Choose a password for the new user or select the ""Generate Password"" option to have Box generate a secure password.
+5. Click ""Add User"" to create the new account.
+
+**Step 2: Configure User Settings**
+
+1. Click on the ""Users"" tab and select the new user's account.
+2. Click on ""Edit User Settings"" and update the following information:
+	* Job Title
+	* Department
+	* Phone Number
+	* Manager (if applicable)
+3. Click ""Save"" to save the changes.
+
+**Step 3: Assign Licenses and Permissions**
+
+1. Click on the ""Users"" tab and select the new user's account.
+2. Click on ""Edit License"" and assign the appropriate license type (e.g. Enterprise, Premium, etc.).
+3. Configure the user's permissions by selecting the appropriate role (e.g. Editor, Viewer, etc.).
+4. Click ""Save"" to save the changes.
+
+**Step 4: Set Up Folder Access**
+
+1. Identify the folders that the new user needs access to.
+2. Click on the ""Folders"" tab and select the folder you want to grant access to.
+3. Click on ""Edit Folder Settings"" and add the new user to the folder permissions.
+4. Choose the appropriate permission level (e.g. Editor, Viewer, etc.).
+5. Click ""Save"" to save the changes.
+
+**Step 5: Notify the New User**
+
+1. Send an email to the new user with their login credentials and instructions on how to access Box.
+2. Provide any additional information or resources that may be necessary for the new user to get started with Box.
+
+**Troubleshooting Tips**
+
+* If the new user is unable to log in, check that their email address is correct and that their password is valid.
+* If the new user is unable to access a folder, check that they have been granted the correct permissions.
+* If you encounter any issues during the setup process, contact the Box support team for assistance.
+
+By following these steps, you should be able to successfully set up a new user's account in Box and provide them with the necessary access and permissions to get started with the platform."
+"Setting Up a New User's Account in Dropbox","**Step 1: Create a New User Account**
+
+To set up a new user's account in Dropbox, navigate to the Dropbox admin console and click on ""Users"" in the top navigation menu. Then, click on ""Invite users"" and enter the new user's email address, first name, and last name.
+
+**Step 2: Assign a Team Folder**
+
+Assign the new user to a team folder by clicking on ""Team Folders"" in the top navigation menu. Select the appropriate team folder and click ""Add members."" Enter the new user's email address and set their permission level to ""Editor"" or ""Viewer"" depending on their role.
+
+**Step 3: Set Up Account Settings**
+
+Click on the ""Users"" tab and select the new user's account. Click on ""Settings"" and set the following:
+
+* **Language**: Select the user's preferred language.
+* **Time Zone**: Select the user's time zone.
+* **Password**: Set a temporary password for the new user. The user will be prompted to change it on their first login.
+* **Account Type**: Select ""Full account"" or ""Limited account"" depending on the user's role.
+
+**Step 4: Configure Two-Factor Authentication (2FA)**
+
+Click on ""Security"" and enable 2FA for the new user. This will require them to enter a verification code sent to their phone or email in addition to their password when logging in.
+
+**Step 5: Provide User Instructions**
+
+Send the new user an email with instructions on how to access their Dropbox account, including:
+
+* A link to the Dropbox login page
+* Their temporary password
+* Instructions on how to change their password
+* Information on how to access the team folder(s) they have been assigned to
+
+**Step 6: Verify Account Setup**
+
+Verify that the new user's account has been set up correctly by logging in as the user and checking that they have access to the assigned team folders.
+
+**Troubleshooting Tips**
+
+* If the new user is unable to access their account, check that their email address is spelled correctly and that they have received the welcome email from Dropbox.
+* If the new user is unable to access a team folder, check that they have been assigned the correct permission level and that the folder is shared with them.
+
+By following these steps, you can ensure that a new user's account is set up correctly in Dropbox and that they have access to the necessary team folders."

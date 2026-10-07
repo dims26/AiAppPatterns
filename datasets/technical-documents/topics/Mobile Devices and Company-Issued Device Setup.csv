@@ -1,0 +1,512 @@
+"ki_topic","ki_text"
+"Setting Up a Mobile Device for Company Email","**Setting Up a Mobile Device for Company Email**
+
+**Prerequisites:**
+
+* Mobile device with a supported operating system (iOS, Android, or Windows)
+* Company email account credentials
+* Mobile device management (MDM) profile installed (if required by company policy)
+
+**Step 1: Ensure Mobile Device Management (MDM) Profile is Installed (if required)**
+
+If your company requires MDM for mobile devices, ensure that the profile is installed on your device. This profile will allow your device to connect to the company network and access company email. If you are unsure whether MDM is required, contact your IT department for assistance.
+
+**Step 2: Set Up Email Account on Mobile Device**
+
+1. Go to the Settings app on your mobile device.
+2. Select ""Mail"" or ""Email"" (depending on your device's operating system).
+3. Tap ""Add Account"" or ""Create a new account"".
+4. Select ""Exchange"" or ""Corporate"" as the account type.
+5. Enter your company email address and password.
+6. If prompted, enter the company's email server address (e.g., mail.company.com).
+7. Select the desired synchronization options (e.g., sync email, contacts, calendar).
+
+**Step 3: Configure Email Settings**
+
+1. In the email account settings, select the ""Advanced"" or ""Security"" option.
+2. Ensure that the ""Use SSL/TLS"" or ""Use secure connection"" option is enabled.
+3. Set the authentication method to ""Username and Password"" or ""DomainUsername"".
+4. If prompted, enter your company's email domain (e.g., company.com).
+
+**Step 4: Verify Email Account**
+
+1. Wait for the email account to synchronize with the company email server.
+2. Send a test email to yourself or a colleague to verify that email is sending and receiving correctly.
+
+**Troubleshooting Tips:**
+
+* If you encounter issues setting up your email account, ensure that your device has a stable internet connection and that your email credentials are correct.
+* If you are unable to connect to the company email server, contact your IT department for assistance.
+* If you experience issues with email synchronization, try restarting your device or checking the email account settings.
+
+**Additional Information:**
+
+* For security reasons, it is recommended to set up a password or PIN lock on your mobile device.
+* Company email policies may require additional security measures, such as encryption or two-factor authentication. Contact your IT department for more information.
+* If you need further assistance or have questions about company email policies, contact your IT department or refer to the company's email policy documentation."
+"Troubleshooting Issues with Company-Issued Tablets","**Troubleshooting Issues with Company-Issued Tablets**
+
+This article provides step-by-step guidance for troubleshooting common issues with company-issued tablets. Please follow the steps outlined below to resolve the issue before escalating to advanced support.
+
+**Step 1: Power Cycle the Tablet**
+
+* Press and hold the power button until the tablet shuts down.
+* Wait for 30 seconds to allow any residual power to drain.
+* Press the power button again to turn the tablet back on.
+* Observe if the issue persists.
+
+**Step 2: Check for Software Updates**
+
+* Ensure the tablet is connected to a stable internet connection.
+* Go to **Settings** > **System** > **System Update**.
+* Check for available software updates and install any pending updates.
+* Restart the tablet after installation.
+
+**Step 3: Restart in Safe Mode**
+
+* Press and hold the power button until the tablet shuts down.
+* Press the power button again to turn the tablet back on.
+* Immediately hold down the **Volume Down** button until the tablet boots into safe mode.
+* Observe if the issue persists in safe mode.
+
+**Step 4: Check for App-Related Issues**
+
+* Identify the app that is experiencing issues.
+* Go to **Settings** > **Apps** > **[App Name]**.
+* Clear the app's cache and data.
+* Restart the app to see if the issue is resolved.
+
+**Step 5: Perform a Factory Reset**
+
+* Go to **Settings** > **System** > **Advanced** > **Reset Options**.
+* Select **Erase all data (factory reset)**.
+* Follow the prompts to complete the reset process.
+* Note: This step will erase all data on the tablet, so ensure that all important data is backed up before proceeding.
+
+**Step 6: Check for Hardware Issues**
+
+* Inspect the tablet for any signs of physical damage or wear.
+* Check the charging port and ensure it is free from debris.
+* Try using a different charging cable or power source.
+
+**Step 7: Gather Diagnostic Information**
+
+* Go to **Settings** > **System** > **About Tablet**.
+* Take note of the tablet's operating system version, device ID, and any error messages.
+* Provide this information to advanced support if the issue cannot be resolved through these troubleshooting steps.
+
+If none of the above steps resolve the issue, please escalate the issue to advanced support, providing as much detail as possible about the problem and the steps taken so far."
+"Configuring Email on an Android Device","**Configuring Email on an Android Device**
+
+This article provides step-by-step instructions on how to configure email on an Android device. Please follow the steps below to set up your email account on your Android device.
+
+**Prerequisites:**
+
+* An Android device with a valid internet connection
+* A valid email account (company email or personal email)
+* Email account credentials (username and password)
+
+**Step 1: Go to the Email App**
+
+* Locate the Email app on your Android device. It may be on the home screen or in the app drawer.
+* Tap on the Email app to open it.
+
+**Step 2: Add a New Account**
+
+* Tap on the ""Add account"" or ""Add email account"" button.
+* Select ""Email"" or ""Corporate"" as the account type, depending on your email provider.
+* Enter your email address and password in the required fields.
+* Tap ""Next"" to proceed.
+
+**Step 3: Configure Server Settings**
+
+* The device will attempt to automatically configure the server settings. If it fails, you will need to enter the settings manually.
+* Tap on ""Manual setup"" or ""Advanced setup"" to enter the server settings manually.
+* Enter the following information:
+	+ Incoming server: [company email server or personal email server]
+	+ Port: [company email port or personal email port]
+	+ Security type: [company email security type or personal email security type]
+	+ Username: [your email address]
+	+ Password: [your email password]
+* Tap ""Next"" to proceed.
+
+**Step 4: Configure Outgoing Server Settings**
+
+* Enter the following information:
+	+ Outgoing server: [company email server or personal email server]
+	+ Port: [company email port or personal email port]
+	+ Security type: [company email security type or personal email security type]
+	+ Username: [your email address]
+	+ Password: [your email password]
+* Tap ""Next"" to proceed.
+
+**Step 5: Account Options**
+
+* You may be prompted to configure additional account options, such as:
+	+ Sync frequency: Choose how often you want your device to sync with the email server.
+	+ Sync size: Choose the maximum size of emails to sync.
+	+ Delete email from server: Choose whether to delete emails from the server after syncing.
+* Tap ""Next"" to proceed.
+
+**Step 6: Account Setup Complete**
+
+* You will be prompted to give your account a name and set it as the default account.
+* Tap ""Done"" to complete the setup.
+
+**Troubleshooting Tips:**
+
+* If you encounter any issues during the setup process, try restarting the Email app or your device.
+* Ensure that your email account credentials are correct and that your internet connection is stable.
+* If you are still experiencing issues, contact the IT helpdesk for further assistance.
+
+By following these steps, you should be able to successfully configure email on your Android device."
+"Configuring a Company-Issued Smartphone","**Configuring a Company-Issued Smartphone**
+
+**Step 1: Activate Your Smartphone**
+
+Upon receiving your company-issued smartphone, ensure it is fully charged and turned off. Insert the SIM card provided by the IT department into the phone's SIM card slot. Turn on the phone and follow the on-screen instructions to complete the initial setup.
+
+**Step 2: Connect to the Company Network**
+
+Once the phone is activated, connect to the company Wi-Fi network by going to **Settings** > **Wi-Fi** and selecting the company network from the list of available networks. Enter the network password provided by the IT department.
+
+**Step 3: Install Required Company Apps**
+
+Download and install the following company-approved apps from the app store:
+
+* Company Email (for email access)
+* Company VPN (for secure remote access)
+* MobileIron (for device management and security)
+
+**Step 4: Configure Email**
+
+Open the Company Email app and follow the on-screen instructions to set up your email account. Use your company login credentials to authenticate. Ensure that your email account is set to sync with the company email server.
+
+**Step 5: Enroll in MobileIron**
+
+Open the MobileIron app and follow the on-screen instructions to enroll your device. This will allow the IT department to manage and secure your device remotely. You will be prompted to accept the company's mobile device management policy.
+
+**Step 6: Configure VPN**
+
+Open the Company VPN app and follow the on-screen instructions to set up your VPN connection. Use your company login credentials to authenticate. Ensure that your VPN connection is set to connect automatically when you are outside the company network.
+
+**Step 7: Set Up Security Features**
+
+Go to **Settings** > **Security** and enable the following features:
+
+* Screen lock (set a PIN or password to lock your screen)
+* Encryption (enable encryption to protect company data)
+* Remote wipe (allow the IT department to remotely wipe your device in case it is lost or stolen)
+
+**Step 8: Test Your Configuration**
+
+Test your email, VPN, and internet connectivity to ensure that your device is configured correctly. If you encounter any issues, contact the IT helpdesk for assistance.
+
+**Additional Tips**
+
+* Regularly update your device's operating system and installed apps to ensure you have the latest security patches and features.
+* Use a secure password or PIN to lock your screen and protect company data.
+* Avoid installing unauthorized apps or accessing untrusted websites to minimize the risk of malware infections.
+
+By following these steps, you will be able to configure your company-issued smartphone for secure and productive use. If you have any questions or concerns, please contact the IT helpdesk for assistance."
+"Troubleshooting Issues with Company-Issued Smartwatches","**Troubleshooting Issues with Company-Issued Smartwatches**
+
+**Step 1: Restart the Smartwatch**
+
+The most common solution to many issues is to simply restart the smartwatch. Press and hold the Power button until the watch shuts down. Wait for 30 seconds before pressing the Power button again to turn it back on. This will refresh the watch's operating system and may resolve connectivity or app-related issues.
+
+**Step 2: Check Connectivity**
+
+Ensure the smartwatch is connected to the company-issued phone or tablet. Open the companion app on the mobile device and check that the watch is paired correctly. If the watch is not paired, follow the in-app instructions to reconnect.
+
+**Step 3: Update the Watch's Operating System**
+
+Outdated software can cause issues with the smartwatch's performance. Open the companion app on the mobile device and check for any available updates. Follow the in-app instructions to download and install the latest software.
+
+**Step 4: Disable and Re-enable Bluetooth**
+
+Interference from other Bluetooth devices can cause connectivity issues. On the mobile device, go to Settings > Bluetooth and toggle Bluetooth off. Wait for 10 seconds before toggling it back on. This will reset the Bluetooth connection and may resolve connectivity issues.
+
+**Step 5: Reset the Smartwatch**
+
+If the above steps do not resolve the issue, perform a factory reset on the smartwatch. This will erase all data on the watch, so ensure the user has synced their data to the companion app or cloud storage before proceeding. To perform a factory reset, go to Settings > System > Reset on the smartwatch.
+
+**Step 6: Check for App-Specific Issues**
+
+If the issue is related to a specific app, try uninstalling and reinstalling the app on the smartwatch. If the issue persists, check the app's settings to ensure it is configured correctly.
+
+**Step 7: Escalate to Advanced Support**
+
+If none of the above steps resolve the issue, escalate the ticket to the Advanced Support team for further troubleshooting and repair or replacement of the smartwatch as necessary.
+
+**Additional Tips:**
+
+* Ensure the smartwatch is properly charged before troubleshooting.
+* Check for any physical damage or obstruction to the watch's sensors or ports.
+* If the issue is specific to a particular feature or function, check the user manual or online documentation for troubleshooting guides.
+
+By following these steps, helpdesk specialists should be able to resolve the majority of issues related to company-issued smartwatches."
+"Configuring a Company-Issued Tablet for International Travel","When traveling internationally with a company-issued tablet, it's essential to take steps to ensure a seamless and secure experience. Follow these steps to configure your tablet for international travel:
+
+**Step 1: Check International Roaming**
+
+Before departing, verify that your tablet's international roaming feature is enabled. Check with our mobile carrier (listed on the company's intranet) to ensure that your device is compatible with international roaming. Additionally, review the international roaming rates and fees associated with your plan.
+
+**Step 2: Update Your Tablet's Settings**
+
+1. Go to **Settings** > **Wireless & networks** > **Mobile networks**.
+2. Ensure that the **International roaming** option is enabled.
+3. Select the **Preferred network type** as **Global** or **LTE/CDMA**.
+4. Disable **Wi-Fi calling** to avoid unexpected charges.
+
+**Step 3: Configure Email and VPN**
+
+1. Update your email settings to use the company's VPN (Virtual Private Network) when accessing email outside of the country. This ensures that your email traffic is encrypted and secure.
+2. Install the company-approved VPN client on your tablet, if not already installed.
+3. Configure the VPN client to connect to the company's VPN server.
+
+**Step 4: Enable International Data Roaming**
+
+1. Go to **Settings** > **Wireless & networks** > **Mobile networks** > **International data roaming**.
+2. Enable **International data roaming** to allow your tablet to connect to foreign networks.
+3. Set the **Data roaming limit** to a reasonable amount to avoid unexpected charges.
+
+**Step 5: Install Essential Apps**
+
+1. Install the company-approved international travel apps, such as trip management tools and language translators.
+2. Ensure that these apps are updated with the latest versions.
+
+**Step 6: Secure Your Tablet**
+
+1. Enable **Two-Factor Authentication (2FA)** on your tablet to add an extra layer of security.
+2. Set up a **Screen lock** or **Biometric authentication** to protect your tablet from unauthorized access.
+3. Install the company-approved antivirus software to protect against malware and viruses.
+
+**Step 7: Test Your Tablet**
+
+Before departing, test your tablet's international roaming feature by connecting to a foreign network. Ensure that you can access company email, VPN, and essential apps.
+
+**Additional Tips**
+
+* Be mindful of your data usage while traveling internationally to avoid unexpected charges.
+* Keep your tablet's software and apps up-to-date to ensure you have the latest security patches.
+* Avoid using public Wi-Fi networks to access company resources, as they may not be secure.
+* In case of an emergency, contact the IT helpdesk for assistance.
+
+By following these steps, you'll be well-prepared for a secure and productive international trip with your company-issued tablet."
+"Configuring a Company-Issued Smartphone for International Travel","**Configuring a Company-Issued Smartphone for International Travel**
+
+**Overview**
+
+When traveling internationally, it's essential to configure your company-issued smartphone to ensure seamless communication and minimize data roaming charges. This article provides step-by-step instructions on how to configure your device for international travel.
+
+**Step 1: Check Your Phone's Compatibility**
+
+Before traveling, ensure your phone supports international frequencies. Check your device's documentation or manufacturer's website to confirm compatibility.
+
+**Step 2: Enable International Roaming**
+
+On your smartphone:
+
+* Go to **Settings** > **Wireless & networks** > **Mobile networks** (or similar, depending on your device's OS)
+* Toggle **International roaming** to **ON**
+* Ensure **Data roaming** is set to **ON** or **Allowed**
+
+**Step 3: Set Up International Data Plan**
+
+Contact your IT department or carrier to activate an international data plan. This will help minimize data roaming charges. Provide your itinerary, including travel dates and destinations, to ensure the plan is activated for the correct regions.
+
+**Step 4: Configure Wi-Fi**
+
+To avoid data roaming charges, enable Wi-Fi on your device:
+
+* Go to **Settings** > **Wireless & networks** > **Wi-Fi**
+* Toggle **Wi-Fi** to **ON**
+* Connect to available Wi-Fi networks whenever possible
+
+**Step 5: Use Company-Approved VPN**
+
+When connecting to public Wi-Fi networks, use the company-approved VPN to ensure secure data transmission:
+
+* Install and configure the company-approved VPN app on your device
+* Connect to the VPN when using public Wi-Fi networks
+
+**Step 6: Disable Non-Essential Features**
+
+To conserve battery life and minimize data usage:
+
+* Disable **Location services** and **Bluetooth** when not in use
+* Set your phone to **Airplane mode** when not actively using it
+
+**Step 7: Monitor Data Usage**
+
+Regularly check your data usage to avoid unexpected charges:
+
+* Go to **Settings** > **Wireless & networks** > **Data usage**
+* Set a data limit or alert to notify you when you approach your data limit
+
+**Step 8: Update Your Phone's Settings for Local Time Zone**
+
+When arriving at your destination, update your phone's settings to reflect the local time zone:
+
+* Go to **Settings** > **Date and time**
+* Select the correct time zone and set your phone to **Auto-update time zone**
+
+**Additional Tips**
+
+* Research your destination's local laws and regulations regarding phone usage
+* Keep your phone's operating system and apps up-to-date to ensure security patches and feature enhancements
+* Carry a portable charger to ensure your phone remains powered throughout your trip
+
+By following these steps, you'll be able to configure your company-issued smartphone for international travel, ensuring a seamless and cost-effective experience. If you encounter any issues or have questions, contact the IT helpdesk for assistance."
+"Configuring a Company-Issued Tablet for Accessibility","Configuring a Company-Issued Tablet for Accessibility
+
+The company strives to provide an inclusive and accessible work environment for all employees. As part of this effort, we offer configuration options for company-issued tablets to accommodate individual needs. This article outlines the steps to configure a company-issued tablet for accessibility.
+
+**Step 1: Enable Accessibility Features**
+
+1. Go to the tablet's Settings app.
+2. Scroll down and select ""Accessibility"" or ""Accessibility settings"".
+3. Toggle the switch next to ""Accessibility"" to enable accessibility features.
+
+**Step 2: Activate Screen Reader**
+
+1. In the Accessibility settings, select ""Screen readers"" or ""TalkBack"" (depending on the tablet's operating system).
+2. Toggle the switch next to ""Screen reader"" to enable the screen reader.
+3. Choose the desired screen reader language and voice settings.
+
+**Step 3: Configure Display Settings**
+
+1. In the Accessibility settings, select ""Display"" or ""Display settings"".
+2. Adjust the following settings as needed:
+	* Invert colors: toggles the screen colors to improve readability.
+	* Color correction: adjusts the color scheme to accommodate color blindness.
+	* Large text: increases the font size for improved readability.
+	* High contrast: enables high-contrast mode for better visibility.
+
+**Step 4: Set Up Assistive Touch**
+
+1. In the Accessibility settings, select ""AssistiveTouch"" or ""Accessibility shortcut"" (depending on the tablet's operating system).
+2. Toggle the switch next to ""AssistiveTouch"" to enable the feature.
+3. Customize the accessibility shortcut to quickly access frequently used features, such as the screen reader or Zoom.
+
+**Step 5: Enable Zoom**
+
+1. In the Accessibility settings, select ""Zoom"" or ""Magnification"" (depending on the tablet's operating system).
+2. Toggle the switch next to ""Zoom"" to enable the feature.
+3. Adjust the zoom level to a comfortable setting using the slider or buttons.
+
+**Step 6: Configure Switch Control**
+
+1. In the Accessibility settings, select ""Switch Control"" (if available on the tablet).
+2. Toggle the switch next to ""Switch Control"" to enable the feature.
+3. Set up switch control to use external devices, such as a joystick or single-switch input device, to interact with the tablet.
+
+**Step 7: Explore Additional Accessibility Features**
+
+1. Explore the Accessibility settings to discover additional features, such as:
+	* Captioning: enables real-time captions for audio and video content.
+	* Audio descriptions: provides audio descriptions for visually impaired users.
+	* Mono audio: combines left and right audio channels for users with hearing impairments.
+
+**Step 8: Contact IT Support**
+
+If you require further assistance or have questions about configuring your company-issued tablet for accessibility, please contact the IT helpdesk. We are committed to providing support and resources to ensure an inclusive work environment.
+
+By following these steps, you can configure your company-issued tablet to meet your individual accessibility needs, ensuring a more productive and comfortable work experience."
+"Configuring a Company-Issued Device for Accessibility","**Configuring a Company-Issued Device for Accessibility**
+
+As part of our commitment to creating an inclusive work environment, our company provides various accessibility features to ensure that all employees can work efficiently. This article will guide you through the process of configuring a company-issued device for accessibility.
+
+**Step 1: Enable Accessibility Features**
+
+1. Go to **Settings** > **Accessibility** on your device.
+2. Toggle the switch to **On** to enable accessibility features.
+3. Review the list of available features and select the ones that best suit your needs.
+
+**Common Accessibility Features:**
+
+* **Screen Reader**: Enables text-to-speech functionality, allowing you to hear the content on your screen.
+* **Display Accommodations**: Adjusts display settings, such as contrast, brightness, and color inversion, to improve readability.
+* **Keyboard Only**: Allows navigation using only the keyboard, useful for those with mobility or dexterity impairments.
+* **Closed Captions**: Provides real-time captions for audio and video content.
+
+**Step 2: Configure Assistive Technologies**
+
+1. **Screen Magnifier**: Enables the screen magnifier, which zooms in on a selected area of the screen.
+	* Press the **Windows key + Plus sign** to zoom in, and **Windows key + Minus sign** to zoom out.
+2. **Speech Recognition**: Enables speech-to-text functionality, allowing you to control your device with voice commands.
+	* Press the **Windows key + Ctrl + S** to start speech recognition.
+
+**Step 3: Set Up Accessibility Shortcuts**
+
+1. **Sticky Keys**: Enables the sticky keys feature, which allows you to press a modifier key (such as Shift, Ctrl, or Alt) and have it remain active until another key is pressed.
+	* Press the **Shift key five times** to toggle sticky keys on or off.
+2. **Filter Keys**: Enables the filter keys feature, which ignores accidental keystrokes and slows down the repeat rate of keys.
+	* Press the **Shift key eight times** to toggle filter keys on or off.
+
+**Step 4: Explore Additional Resources**
+
+1. **Accessibility Training**: Visit our company's internal training portal to access accessibility-focused courses and tutorials.
+2. **Disability Support**: Contact our Disability Support team for personalized assistance with accessibility configuration and troubleshooting.
+
+**Troubleshooting Tips:**
+
+* If you experience issues with accessibility features, try restarting your device or contacting the IT helpdesk for assistance.
+* Ensure that your device is running the latest operating system and software updates to ensure compatibility with accessibility features.
+
+By following these steps, you can configure your company-issued device to meet your accessibility needs and work more efficiently. If you require further assistance or have questions, please don't hesitate to reach out to the IT helpdesk or Disability Support team."
+"Configuring a Company-Issued Device for International Travel","**Configuring a Company-Issued Device for International Travel**
+
+Before traveling internationally with a company-issued device, it's essential to take certain precautions to ensure secure and reliable connectivity. Follow these steps to configure your device for international travel:
+
+**Step 1: Check Device Compatibility**
+
+Verify that your company-issued device supports international roaming. Check the device's manufacturer website or contact the IT helpdesk to confirm compatibility.
+
+**Step 2: Enable International Roaming**
+
+On your device, go to **Settings** > **Wireless & networks** > **Mobile networks** > **International roaming**. Enable international roaming to allow your device to connect to foreign networks.
+
+**Step 3: Set Up Data Roaming**
+
+Data roaming allows your device to access the internet while abroad. To set up data roaming:
+
+* Go to **Settings** > **Wireless & networks** > **Mobile networks** > **Data roaming**.
+* Select the **International data roaming** option.
+* Ensure that **Data roaming limit** is set to **Unlimited** to avoid unexpected charges.
+
+**Step 4: Configure Wi-Fi Settings**
+
+To avoid accidental connections to unsecured networks:
+
+* Go to **Settings** > **Wireless & networks** > **Wi-Fi**.
+* Disable **Wi-Fi** and enable **Wi-Fi scanning**.
+* Set **Wi-Fi sleep policy** to **Never** to maintain a stable connection.
+
+**Step 5: Install Required VPN Software**
+
+To maintain secure connectivity, install the company-approved VPN software on your device:
+
+* Download and install the VPN software from the company's software repository.
+* Configure the VPN software according to the provided instructions.
+
+**Step 6: Update Device Software**
+
+Ensure your device's operating system and software are up-to-date:
+
+* Go to **Settings** > **About device** > **System update**.
+* Install any available updates.
+
+**Step 7: Notify IT Helpdesk**
+
+Inform the IT helpdesk of your international travel plans, including your destination and travel dates. This will enable us to provide additional support and monitoring for your device while abroad.
+
+**Additional Tips**
+
+* Be cautious when using public Wi-Fi networks, as they may be unsecured.
+* Avoid using public computers or untrusted networks to access company resources.
+* Keep your device and its software up-to-date to ensure the latest security patches.
+* Be aware of local laws and regulations regarding data privacy and security.
+
+By following these steps, you'll be able to configure your company-issued device for safe and secure use while traveling internationally. If you encounter any issues or have further questions, please contact the IT helpdesk for assistance."
